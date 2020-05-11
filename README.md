@@ -22,3 +22,6 @@ and,
 - copy the ssh keys to each and every devices to enable device to device easy communication;
 - Mount swapfile, genomics folder, hard drive as storage and the flash drive as genstore on each of the device; and,
 - copy the deduplication program to /genomics/sorting framework.
+
+
+The repositories for the GPU based implementation of SWARAM architecture for genome analysis is private at present. Please contact the pwner to access the repository.
